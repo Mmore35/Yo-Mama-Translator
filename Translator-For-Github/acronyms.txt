@@ -1,0 +1,278 @@
+121	One-to-one (private chat initiation)
+2day	Today
+2M2H	Too Much Too Handle
+2moro	Tomorrow
+2nite	Tonight
+4EAE	For Ever And Ever
+4get	Forget
+AAF	As A Friend
+AAR	At Any Rate
+AAYF	As Always, Your Friend
+ABD	Already Been Done
+ACK	Acknowledge
+ADIH	Another Day In Hell
+ADN	Any Day Now
+ADR	Address
+AEAP	As Early As Possible
+AFAIC	As Far As I am Concerned
+AFAIK	As Far As I know
+AKA	Also Known As
+AMA	Ask Me Anything
+AMBW	All My Best Wishes
+AML	All My Love
+AOTA	All Of The Above
+ASAP	As Soon As Possible
+ATB	All The Best
+ATEOTD	At The End Of The Day
+ATM	At The Moment
+AWOL	Absent Without Leave
+AYDY	Are You Done Yet?
+AYEC	At Your Earliest Convenience
+AYOR	 At Your Own Risk
+AYS	 Are You Serious?
+AYSOS	Are You Stupid Or Something?
+AYT	Are You There?
+B/C	Because
+B4	Before
+B4N	Bye For Now
+BAU	Business As Usual
+BBIAF	Be Back In A Few
+BBIAM	Be Back In A Minute
+BBIAS	Be Back In A Sec
+BBS	Be Back Soon
+BBT	Be Back Tomorrow
+BCNU	Be Seeing You
+BCOY	Big Crush On You
+BD	Big Deal
+BF	Best Friend
+BFAW	Best Friend At Work
+BFD	Big Freaking Deal
+BFF	Best Friends Forever
+BFFN	Best Friend For Now
+BFN	Bye For Now
+BG	Big Grin
+BGWM	Be Gentle With Me
+BHL8	Be Home Late
+BIB	Boss Is Back
+BN	Bad News
+BOL	Be On Later
+BOT	Back On Topic
+BOYF	Boyfriend
+BRB	Be Right Back
+BRH	Be Right Here
+BRO	Brother
+BRT	Be Right There
+BT	But
+BTW	By The Way
+BYOB	Bring Your Own Booze
+BYOC	Bring Your Own Computer
+CMB	Call Me Back
+CMIIW	Correct Me If I'm Wrong
+COB	Close Of Business
+CSL	Can't Stop Laughing
+CU	See You
+CUA	See You Around
+CUL	See You Later
+CWYL	Chat With You Later
+CYA	Cover Your Ass
+CYE	Check Your E-mail
+CYO	See You Online
+DKDC	Don't Know, Don't Care
+DM	Direct Message
+DTS	Don't Think So
+DUR	Do You Remember?
+DWBH	Don't Worry, Be Happy
+E1	Everyone
+EF4T	Effort
+EOD	End Of Discussion
+F2F	Face To Face
+FAQ	Frequently Asked Questions
+FB	Facebook
+FF	Follow Friday
+FISH	First In, Still Here
+FITB	Fill In The Blank
+FTBOMH	From The Bottom Of My Heart
+FTL	For The Loss / For The Lose
+FTW	For The Win
+FWB	Friend With Benefits
+FWIW	For What It's Worth
+FYEO	For Your Eyes Only
+FYI	For Your Information
+G4C	Going For Coffee
+GA	Go Ahead
+GAC	Get A Clue
+GAS	Greetings And Salutations
+GB	Goodbye
+GBU	God Bless You
+GF	Girl Friend
+GFN	Gone For Now
+GLHF	Good Luck, Have Fun
+GMTA	Great Minds Think Alike
+GNITE	Good Night
+GR8	 Great
+GRATZ	Congratulations
+GRL	Girl
+GTSY	Great (or good) To See You
+H&K	Hugs & Kisses
+H2CUS	Hope To See You Soon
+H8	Hate
+HAG1	 Have A Good One
+HAGN	Have A Good Night
+HAND	Have A Nice Day
+HAWT	Have A Wonderful Day (out-dated, see next in list)
+HMB	Hit Be Back
+HMU	Hit Me Up
+HOAS	Hold On A Second
+HRU	How Are You
+HT	Hat Tip or Heard Through
+HTH	Hope This Helps / Happy To Help
+HW	Homework
+IAC	In Any Case
+IAE	In Any Event
+IANAL	I Am Not A Lawyer
+IAO	I Am Out (of here)
+IC	I See
+ICYMI	In Case You Missed It
+IDC	I Don't Care
+IDK	I Don't know
+IHNI	I have no idea
+IIRC	If I Remember Correctly
+IKR	I Know Right
+ILY	I Love You
+IM	 Instant Message
+IMHO	In My Humble Opinion
+IMO	In My Opinion
+IMS	I Am Sorry
+IRL	In Real Life
+ISLY	I Still Love You
+ISO	In Search Of
+IU2U	It's Up To You
+IYKWIM	If You Know What I Mean
+J/K	Just Kidding
+J4F/JFF	Just For Fun
+JIC	Just In Case
+JLMK	Just Let Me Know
+JMO	Just My Opinion
+JSYK	Just So You Know
+JW	Just Wondering
+K	Okay
+KISS	Keep It Simple, Stupid
+KIT	Keep In Touch
+L8	Late
+L8R	Later
+LHO	Laughing Head Off
+LMAO	Laughing My Ass Off
+LMBO	Laughing My Butt Off
+LMK	Let Me Know
+LOL	Lots Of Love
+LOL	Laughing Out Loud
+LOTI	Laughing On The Inside
+LTNS	Long Time No See
+LYLAS	Love You Like A Sister
+LYSM	Love You So Much
+MC	Merry Christmas
+MGMT	Management
+MM	Music Monday
+MSM	Mainstream Media
+MU	Miss You
+MYOB	Mind Your Own Business
+NAGI	Not A Good Idea
+NFM	Not For Me
+NFS	Not For Sale
+NM	Nothing Much
+NM	Not Much
+NOYB	None Of Your Business
+NP	No Problem
+NSFL	Not Safe For Life
+NSFW	Not Safe For Work
+NTS	Note To Self
+NVM	Never Mind
+OH	Overheard
+OIC	Oh, I See
+OMG	Oh My God
+OMW	On My Way
+ORLY	Oh, Really?
+OT	Off Topic
+OTB	Off To Bed
+OTOH	On The Other Hand
+OTP	On The Phone
+OTT	Over The Top
+PAW	Parents Are Watching
+PCM	Please Call Me
+PLS	Please
+POV	Point Of View
+PPL	People
+PTB	Please Text Back
+PTMM	Please Tell Me More
+QQ	Crying
+RAK	Random Act of Kindness
+RBTL	Read Between The Lines
+RIP	Rest In Peace
+RL	Real Life
+ROFL	Rolling On the Floor Laughing
+RT	Real Time
+RTM	Read The Manual
+RYS	Are You Single?
+SBY	Somebody
+SFAIK	So Far As I Know
+SH	Sh** Happens
+SIMYC	Sorry I Missed Your Call
+SIS	Sister
+SITD	Still In The Dark
+SMH	Shaking My Head
+SOL	Sooner Or Later
+SRSLY	Seriously
+SRY	Sorry
+SSDD	Same Stuff, Different Day
+STBY	Sucks To Be You
+SWAK	Sealed (or Sent) With A Kiss
+SWYP	So, What's Your Problem?
+TAFN	 That's All For Now
+TBA	To Be Announced
+TBC	To Be Continued
+TBH	To Be Honest
+TBL	Text back later
+TCB	Take care of business
+TFH	Thread From Hell
+TFS	Thanks For Sharing
+TFTI	Thanks For The Invitation
+TGIF	Thank God It's Friday
+THX	Thanks
+TIA	Thanks In Advance
+TIAD	Tomorrow Is Another Day
+TIME	Tears In My Eyes
+TLC	Tender Loving Care
+TLK2UL8R	Talk To You Later
+TMI	Too Much Information
+TMRW	Tomorrow
+TTYL	Talk To You Later
+TTYS	Talk To You Soon
+TYFYC	Thank You For Your Comment
+TYVM	Thank You Very Much
+U4E	You Forever
+UR	Your
+VAT	Value Added Tax
+VBG	Very Big Grin
+VSF	Very Sad Face
+WAM	Wait A Minute
+WB	Welcome Back
+WC	Who Cares
+WE	Whatever
+WEG	Wicked Evil Grin
+WITP	What Is The Point?
+WKND	Weekend
+WTF	What The F***
+WTH	What The Heck?
+WTPA	Where The Party At?
+WUF	Where Are You From?
+WYCM	Will You Call Me?
+WYWH	Wish You Were Here
+XLNT	Excellent
+XOXO	Hugs and Kisses
+YCMU	You Crack Me Up
+YGM	You've Got Mail
+YMMV	Your Mileage May Vary
+YOLO	You Only Live Once
+YTB	You're The Best
+YW	You're Welcome
+YWSYLS	You Win Some, You Lose Some
